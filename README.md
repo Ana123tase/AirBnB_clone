@@ -264,18 +264,18 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Ayomide Suara</summary>
+    <summary>DUKUNDABERA Anastse</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Ana123tase">Github</a></li>
+    <li><a href="https://www.twitter.com/Boticario Anastase">Twitter</a></li>
+    <li><a href="mailto:dukundanastase@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>Bamidele Adefolaju</summary>
+    <summary>Suria</summary>
     <ul>
-    <li><a href="https://www.github.com/lexxyla">Github</a></li>
-    <li><a href="https://www.twitter.com/lexxyla">Twitter</a></li>
-    <li><a href="mailto:bamideleadefolaju@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/{github user name of Suria}">Github</a></li>
+    <li><a href="https://www.twitter.com/{x username of suria}">Twitter</a></li>
+    <li><a href="gmail.com"{email address of suria}>e-mail</a></li>
     </ul>
 </details>
