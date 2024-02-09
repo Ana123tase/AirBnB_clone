@@ -272,10 +272,10 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     </ul>
 </details>
 <details>
-    <summary>Suria</summary>
+    <summary>Saria</summary>
     <ul>
-    <li><a href="https://www.github.com/{github user name of Suria}">Github</a></li>
-    <li><a href="https://www.twitter.com/{x username of suria}">Twitter</a></li>
-    <li><a href="gmail.com"{email address of suria}>e-mail</a></li>
+    <li><a href="https://www.github.com/SariaAbassMohamed90">Github</a></li>
+    <li><a href="https://www.twitter.com/sarya abass">Twitter</a></li>
+    <li><a href="gmail.com:saryaabass90@gmail.com">e-mail</a></li>
     </ul>
 </details>
