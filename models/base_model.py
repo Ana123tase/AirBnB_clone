@@ -5,6 +5,7 @@ It is the parent class"""
 import uuid
 from datetime import datetime
 
+
 class BaseModel:
     """Represents the Base model of whole AirBnB project"""
 
@@ -37,6 +38,7 @@ class BaseModel:
         it helps in future retrieval"""
 
         self.updated_at = datetime.now()
+        storage.save()
 
     def to_dict(self):
         """It returns dictionary representation"""
