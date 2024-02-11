@@ -11,7 +11,7 @@ class Place(BaseModel):
         user_id: User's ID
         name: place's name(s)
         description: Brief overview opf the city
-        max_guest: Max_num of guests that a place can hold at a time
+        max_guest: Max_num of guests place can hold at a time
         price_by_night: Total price per night          
         number_bathrooms: The present numer of bathrooms in a pave
         latitude (float): latitude
